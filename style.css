@@ -33,6 +33,11 @@ header{
 main{
   padding: 10px 20px;
 }
+article img{
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
 .table-of-content li{
   margin: 20px 0;
   font-size: 18px;

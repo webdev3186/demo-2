@@ -34,7 +34,6 @@ main{
   padding: 10px 20px;
 }
 article img{
-  width: 100%;
   object-fit: cover;
 }
 .table-of-content li{

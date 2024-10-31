@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Bangla:wght@100..800&display=swap');
 *{
   box-sizing: border-box;
+}
+body{
+  font-family: "Anek Bangla", serif;
 }
 p{
   font-size: 18px;

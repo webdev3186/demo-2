@@ -1,8 +1,9 @@
+@import url('https://fonts.maateen.me/apona-lohit/font.css');
 *{
   box-sizing: border-box;
 }
-body{
-  font-family: "Anek Bangla", serif;
+body {
+    font-family: 'AponaLohit', Arial, sans-serif !important;
 }
 p{
   font-size: 18px;

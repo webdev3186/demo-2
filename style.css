@@ -41,10 +41,24 @@ header{
 main{
   padding: 10px 20px;
 }
-article img{
-  width: 100%;
+figure {
+  text-align: center;
+  max-width: 400px; /* ইমেজ কন্টেইনারের প্রস্থ */
+  margin: auto;
+}
+
+figure img {
+  max-width: 100%;
   height: auto;
   object-fit: cover;
+}
+
+figure figcaption {
+  font-size: 16px; /* ক্যাপশন টেক্সটের সাইজ */
+  color: #555; /* ক্যাপশন টেক্সটের রং */
+  background: #E1E2E8;
+  padding: 3px 0;
+  margin-top: -4px;
 }
 .table-of-content li{
   margin: 20px 0;
